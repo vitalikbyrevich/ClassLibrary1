@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 1094065331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1dff74546db6165ad06f16858d4f267
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eda06dc56697551767103405291b70f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c6d347cad40e284b90967b3adc889d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d54b946967178fd44b84307966938ee0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7bbd8dfe675f8334e9be50fdbf2a5a2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3c36655b32e16a4d97455ec523f1600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51ba664a5b935cd4fbb00ada139565bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7767586ecd79ab45bf303f6a3503958, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d6b7601b9dca6c4486788aac32b8e34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0e74dccc8d9cb649b3b6745769015ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f95910b6b56fe3343bb569b7e78301b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e24f2356cd24ee4f8a6afb009d72a8a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 164
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: assembly_valheim
+  ClassName: Attack
+- AssemblyName: assembly_valheim
+  ClassName: EffectList
+- AssemblyName: assembly_valheim
+  ClassName: EffectList/EffectData
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageTypes
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData/SharedData
+Assets:
+- Assets/vbmod/flametal1.mat
+- Assets/vbmod/BowVB.prefab
+- Assets/vbmod/SwordVB.prefab
+Dependencies: []
